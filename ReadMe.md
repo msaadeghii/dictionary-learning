@@ -1,9 +1,4 @@
-This MATLAB toolbox contains various dictionary learning algorithms including:
-
-Atom-bt-atom update [1]
-
-DL by a convex approximation [2]
-ADL [3]
+This MATLAB toolbox contains several dictionary learning algorithms including, Atom-by-atom update [1], DL by a convex approximation [2], and accelerated dictionary learning (ADL) [3].
 
 References:
 
@@ -14,6 +9,4 @@ References:
 [3] F. Ghayem, M. Sadeghi, M. Babaie-Zadeh, and C. Jutten, “Accelerated dictionary learning for sparse signal representation,” 
 13th International Conference on Latent Variable Analysis and Signal Separation, LVA/ICA, Grenoble, France, 2017.
 
-Mostafa Sadeghi
-
-Email: m.saadeghii@gmail.com
+Contact: Mostafa Sadeghi (mostafa.sadeghi@inria.fr)
